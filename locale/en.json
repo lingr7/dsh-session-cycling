@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Session cycling",
+    "description": "Adds shortcut commands that move the main view between parallel sessions: previous, next, previously used, and next running.",
+    "detail": "docs/DETAIL.md"
+  }
+}

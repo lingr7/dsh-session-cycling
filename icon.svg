@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Session cycling">
+  <rect width="64" height="64" rx="14" fill="#1f2937"/>
+  <rect x="12" y="14" width="40" height="9" rx="3" fill="#4b5563"/>
+  <rect x="12" y="27" width="26" height="9" rx="3" fill="#60a5fa"/>
+  <rect x="12" y="40" width="40" height="9" rx="3" fill="#4b5563"/>
+  <path d="M46 27v9m0 0 4-4m-4 4-4-4" stroke="#f9fafb" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+</svg>
